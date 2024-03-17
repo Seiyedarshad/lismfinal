@@ -1,5 +1,5 @@
-import 'package:assignment/constants.dart';
-import 'package:assignment/screens/signin.dart';
+import 'package:assignmentfinal/constants.dart';
+import 'package:assignmentfinal/screens/signin.dart';
 import 'package:flutter/material.dart';
 
 class Settings extends StatelessWidget {

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:assignment/api.dart';
-import 'package:assignment/localStorage.dart';
+import 'package:assignmentfinal/api.dart';
+import 'package:assignmentfinal/localStorage.dart';
 // Import local storage utilities
-import 'package:assignment/widgets/reusedwidgets.dart';
+import 'package:assignmentfinal/widgets/reusedwidgets.dart';
 import '../constants.dart';
 
 class viewMoviesTv extends StatelessWidget {

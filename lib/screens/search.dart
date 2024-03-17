@@ -1,6 +1,6 @@
-import 'package:assignment/api.dart';
-import 'package:assignment/screens/Trivia.dart';
-import 'package:assignment/screens/home.dart';
+import 'package:assignmentfinal/api.dart';
+import 'package:assignmentfinal/screens/Trivia.dart';
+import 'package:assignmentfinal/screens/home.dart';
 import 'resultsSearch.dart';
 import 'package:flutter/material.dart';
 import '../constants.dart';

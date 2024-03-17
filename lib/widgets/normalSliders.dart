@@ -1,4 +1,4 @@
-import 'package:assignment/api.dart';
+import 'package:assignmentfinal/api.dart';
 import 'package:flutter/material.dart';
 
 import '../screens/SingleMovie.dart';

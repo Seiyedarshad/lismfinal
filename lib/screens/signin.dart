@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:assignment/screens/home.dart';
-import 'package:assignment/Screens/signup.dart';
-import 'package:assignment/widgets/reusedwidgets.dart';
+import 'package:assignmentfinal/screens/home.dart';
+import 'package:assignmentfinal/Screens/signup.dart';
+import 'package:assignmentfinal/widgets/reusedwidgets.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class SignIn extends StatefulWidget {

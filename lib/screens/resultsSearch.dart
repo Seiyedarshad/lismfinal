@@ -1,5 +1,5 @@
-import 'package:assignment/api.dart';
-import 'package:assignment/widgets/trendingslider.dart';
+import 'package:assignmentfinal/api.dart';
+import 'package:assignmentfinal/widgets/trendingslider.dart';
 import 'package:flutter/material.dart';
 import '../constants.dart';
 

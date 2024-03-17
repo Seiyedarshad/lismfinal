@@ -1,11 +1,11 @@
-import 'package:assignment/constants.dart';
-import 'package:assignment/screens/home.dart';
-import 'package:assignment/screens/search.dart';
-import 'package:assignment/screens/setttings.dart';
-import 'package:assignment/screens/watchList.dart';
-import 'package:assignment/screens/watched.dart';
-import 'package:assignment/widgets/normalSliders.dart';
-import 'package:assignment/widgets/reusedwidgets.dart';
+import 'package:assignmentfinal/constants.dart';
+import 'package:assignmentfinal/screens/home.dart';
+import 'package:assignmentfinal/screens/search.dart';
+import 'package:assignmentfinal/screens/setttings.dart';
+import 'package:assignmentfinal/screens/watchList.dart';
+import 'package:assignmentfinal/screens/watched.dart';
+import 'package:assignmentfinal/widgets/normalSliders.dart';
+import 'package:assignmentfinal/widgets/reusedwidgets.dart';
 import 'package:flutter/material.dart';
 
 class trivia extends StatefulWidget {

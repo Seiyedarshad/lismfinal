@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:assignment/constants.dart';
-import 'package:assignment/widgets/trendingslider.dart';
-import 'package:assignment/api.dart';
+import 'package:assignmentfinal/constants.dart';
+import 'package:assignmentfinal/widgets/trendingslider.dart';
+import 'package:assignmentfinal/api.dart';
 
 class watchList extends StatefulWidget {
   const watchList({super.key});

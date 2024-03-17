@@ -1,5 +1,5 @@
-import 'package:assignment/screens/home.dart';
-import 'package:assignment/screens/signin.dart';
+import 'package:assignmentfinal/screens/home.dart';
+import 'package:assignmentfinal/screens/signin.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 

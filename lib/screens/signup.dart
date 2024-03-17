@@ -1,6 +1,6 @@
-import 'package:assignment/widgets/reusedwidgets.dart';
+import 'package:assignmentfinal/widgets/reusedwidgets.dart';
 import 'package:flutter/material.dart';
-import 'package:assignment/screens/home.dart';
+import 'package:assignmentfinal/screens/home.dart';
 
 class SignUpScreen extends StatefulWidget {
   const SignUpScreen({super.key});
