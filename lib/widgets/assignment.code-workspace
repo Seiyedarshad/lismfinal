@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "assignment",
+			"path": "../.."
+		},
+		{
+			"name": "assets",
+			"path": "../../../../Cross platform/practice/assets"
+		}
+	],
+	"settings": {}
+}
